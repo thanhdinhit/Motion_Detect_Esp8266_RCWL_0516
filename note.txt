@@ -1,0 +1,14 @@
+Project: RCWL-0516 Microwave Radar Sensor with ESP8266
+***** Connect *****
+
+Relay (5V)        Esp8266
++ VCC      --     3.3V
++ GND      --     GND
++ IN       --     D4
+
+- RCWL-0516       Esp8266
++ Vin      --     V_IN
++ GND      --     GND
++ OUT       --    D6
+
+If any issue, could you contact me: https://www.facebook.com/DinhNTDiy
